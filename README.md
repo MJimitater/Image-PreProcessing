@@ -1,5 +1,4 @@
-# Image-PreProcessing
-## Collection of Code for Image Pre-Processing
+# Image-PreProcessing - Collection of code for image preprocessing
 
 1. working_with_xmls.ipynb contains code for
  - accessing xml files and fetching elements
