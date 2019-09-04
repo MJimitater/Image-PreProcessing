@@ -5,5 +5,6 @@
   - loading an image and drawing a bounding box (bbox)
   - resizing an image and drawing modified bbox
 
+
 2. Image_to_CSV.ipynb contains code for
   - turning an image into a csv file
